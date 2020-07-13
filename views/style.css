@@ -1,0 +1,69 @@
+.judul-navbar{
+	font-weight: bold;
+	margin-top: 9px;
+}
+
+.tulisan-bergerak{
+	background-color: #F9DC24;
+}
+
+.menu{
+	background-color: #4B7447;
+	padding-left: 15px;
+	box-shadow: 6px 6px 4px grey;
+	margin-top: 15px;
+}
+
+.tulisan-menu {
+	font-size: 16pt;
+	color: white;
+	padding: 8px;
+	font-weight: bold;
+
+}
+
+.isi{
+	margin-bottom: 25px;
+}
+
+.isi-profil{
+	margin-top: 50px;
+}
+
+.bilah{
+	box-shadow: 4px 4px 5px grey;
+	margin-top: 55px;
+	padding: 5px;
+}
+
+.menu-samping
+{
+	background-color: #8EBA43;
+	
+	padding-left: 10px;
+}
+
+.tulisan-samping{
+	font-size: 12pt;
+	color: white;
+	padding: 4px;
+	font-weight: bold;
+}
+
+.isi-samping{
+	padding: 5px;
+	margin-top: -5px;
+	margin-bottom: 15px;
+}
+
+.nav-aktif{
+	color: red;
+	font-weight: bold;
+}
+
+.footer{
+	background-color: #4B7447;
+	padding: 20px;
+	color: white;
+	margin-top: 40px;
+}
