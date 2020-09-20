@@ -1,2 +1,3 @@
-# profil-kelurahan-web
- Project magang saya saat di Kominfo Yogyakarta
+# Profil Web kelurahan
+## Dalam repository ini berisi:
+   Repsitory ini berisi sebuah file yang saya dan teman saya (Fahmi) kerjakan saat kami melakukan kerja praktik atau magang di Kantor Balai Kota Yogyakarta (Kominfo). Dalam proses kerja praktik tersebut kami diberi tugas oleh pembimbing lapangan seorang karyawan di kantor tersebut untuk membuat template website, yang nantinya akan digunakan untuk beberapa website kelurahan yang ada di Yogyakarta. Dalam prakteknya kami menggunakan bahasa pemrograman PHP dan Javascript, framework yang kami gunakan adalah CI (Code Igniter 3). Namun kami tidak mendapatkan akses full dari susunan file dalam framework CI tersebut, kami hanya diberikan akses pada folder Controller dan folder View. Sehingga, kami hanya mengerjakan sesuai dengan akses yang kami dapatkan. Semua file yang kami kerjakan nantinya akan di push ke dalam git Yogyakarta, dan kemudian dijalankan oleh server kantor dari git tersebut.
